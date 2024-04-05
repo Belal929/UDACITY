@@ -1,0 +1,19 @@
+/*! Theme 2 */
+.theme2 {
+  background-color: #000000;
+  color: #000000;
+}
+
+
+:root {
+  --primary-color: #39FF14; /* Neon Green */
+  --secondary-color: #FFD700; /* Gold */
+  --text-color: #000000; /* Black */
+}
+
+body {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+/* Additional styles can be added to enhance the theme */

@@ -1,0 +1,19 @@
+.theme3 {
+  background-image: url("IMAGE_URL");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+:root {
+  --primary-color: #8A2BE2; /* Blue Violet */
+  --secondary-color: #FF1493; /* Deep Pink */
+  --text-color: #FFFFFF; /* White */
+}
+
+body {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+/* Additional styles can be added to enhance the theme */

@@ -1,0 +1,17 @@
+/*! Theme 1 */
+.theme1 {
+  background-color: #e9d89b;
+  color: #000;
+}
+:root {
+  --primary-color: #00BFFF; /* Electric Blue */
+  --secondary-color: #FF6347; /* Tomato */
+  --text-color: #FFFFFF; /* White */
+}
+
+body {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+/* Additional styles can be added to enhance the theme */
